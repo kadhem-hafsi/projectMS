@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Category/Category/Category.iml" filepath="$PROJECT_DIR$/Category/Category/Category.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigurationServer/ConfigurationServer/ConfigurationServer.iml" filepath="$PROJECT_DIR$/ConfigurationServer/ConfigurationServer/ConfigurationServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatewayServere/GatewayServerer.iml" filepath="$PROJECT_DIR$/GatewayServere/GatewayServerer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MsProjFinal.iml" filepath="$PROJECT_DIR$/.idea/MsProjFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductMS/ProductMS/ProductMS.iml" filepath="$PROJECT_DIR$/ProductMS/ProductMS/ProductMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StockMS/StockMS/StockMS.iml" filepath="$PROJECT_DIR$/StockMS/StockMS/StockMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/shared.iml" filepath="$PROJECT_DIR$/shared/shared.iml" />
+    </modules>
+  </component>
+</project>

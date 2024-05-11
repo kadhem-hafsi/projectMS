@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Category/Category/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Category/Category/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigurationServer/ConfigurationServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigurationServer/ConfigurationServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayServere/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayServere/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductMS/ProductMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductMS/ProductMS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StockMS/StockMS/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StockMS/StockMS/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shared/shared/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shared/shared/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
